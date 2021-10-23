@@ -1,0 +1,26 @@
+<annotation>
+	<folder>victory</folder>
+	<filename>victory-013.jpg</filename>
+	<path>/home/tousif/Projects/Sign-Language-Detection/images/collectedimages/victory/victory-013.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Victory</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>348</xmin>
+			<ymin>158</ymin>
+			<xmax>599</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>
